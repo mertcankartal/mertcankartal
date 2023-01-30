@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mertcan</h1>
 <h3 align="center">An Android Developer from Turkey</h3>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=mertcankartal&show_icons=true&theme=radical)
+
 
 
 - 🌱 I’m currently learning **Kotlin**
