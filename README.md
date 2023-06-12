@@ -6,9 +6,11 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Kotlin, Python**
+- 💬 Ask me about **Kotlin, Python, Android**
 
 - 📫 How to reach me **kartal.mertcan99@gmail.com**
+
+- I’m currently working at [Ibtech](https://www.ibtech.com.tr/).
 
 
 <h3 align="left">Connect with me:</h3>
